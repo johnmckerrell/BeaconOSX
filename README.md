@@ -1,7 +1,7 @@
 Mojave as an iBeacon
 ===
 
-**NOTE: This version works in Mojave but not done must testing**
+**NOTE: This version works in Mojave but not done much testing**
 
 Use a Bluetooth 4 enabled Mac running Mojave as an iBeacon.
 
