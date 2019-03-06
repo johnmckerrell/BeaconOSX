@@ -1,10 +1,9 @@
-Mavericks (not Yosemite) as an iBeacon
+Mojave as an iBeacon
 ===
 
-**NOTE: THIS DOES NOT WORK IN YOSEMITE!!!  Apple have closed the loophole that
-allowed a Mac to be used as an iBeacon in Mavericks.**
+**NOTE: This version works in Mojave but not done must testing**
 
-Use a Bluetooth 4 enabled Mac running **Mavericks** (not Yosemite) as an iBeacon.
+Use a Bluetooth 4 enabled Mac running Mojave as an iBeacon.
 
 See http://www.blendedcocoa.com/blog/2013/11/02/mavericks-as-an-ibeacon/ for more details.
 

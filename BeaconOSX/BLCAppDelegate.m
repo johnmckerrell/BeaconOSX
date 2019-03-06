@@ -43,6 +43,7 @@ static NSString *kBLCUserDefaultsMeasuredPower = @"kBLCUserDefaultsMeasuredPower
 #import "BLCAppDelegate.h"
 
 #import <IOBluetooth/IOBluetooth.h>
+#import <CoreBluetooth/CoreBluetooth.h>
 
 #import "BLCBeaconAdvertisementData.h"
 
